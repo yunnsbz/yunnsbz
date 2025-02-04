@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer and game designer</h3>
 
-- 🎮 I’m currently developing a sci-fi top-down shooter game in **Unity** with modular AI and battle room mechanics.
+- 🎮 I’m currently developing a sci-fi top-down shooter game in **Unity**
 
 - 📖 Currently expanding my web development skills with **HTML**, **CSS**, and **JavaScript**.
 
