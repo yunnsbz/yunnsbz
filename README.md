@@ -3,7 +3,7 @@
 
 - 🎮 I’m currently developing a sci-fi top-down shooter game in **Unity** with modular AI and battle room mechanics.
 
-- 🌱 I’m currently learning **Html, Css, Javascript**
+- 📖 Currently expanding my web development skills with **HTML**, **CSS**, and **JavaScript**.
 
 - 📫 How to reach me: **yunus21bzkrtc@gmail.com**
 
