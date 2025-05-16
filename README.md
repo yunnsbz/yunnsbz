@@ -5,14 +5,10 @@
 
 - 📖 Currently expanding my web development skills with **HTML**, **CSS**, and **JavaScript**.
 
-- 📫 How to reach me: **yunus21bzkrtc@gmail.com**
+- 📫 How to reach me:
+  - **Email: yunus21bzkrtc@gmail.com**
+  -  **[LinkedIn](https://linkedin.com/in/yunusbozkurtaca)** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/yunusbozkurtaca" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusbozkurtaca" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
