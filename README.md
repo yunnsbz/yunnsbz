@@ -5,7 +5,8 @@
 
 - 📫 How to reach me:
   - **Email: yunus21bzkrtc@gmail.com**
-  -  **[LinkedIn](https://linkedin.com/in/yunusbozkurtaca)** 
+  - **[Full Portfolio](https://yunusbozkurtaca.com/)** 
+  - **[LinkedIn](https://linkedin.com/in/yunusbozkurtaca)** 
 
 
 <h3 align="left">Languages and Tools:</h3>
